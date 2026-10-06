@@ -1,0 +1,1385 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//event-radar//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Event Radar
+X-WR-TIMEZONE:Europe/Paris
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:paris-games-week-2026@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261026
+SUMMARY:★★ Paris Games Week 2026
+TRANSP:TRANSPARENT
+DESCRIPTION:★★ gaming · Paris · ~€20\n\nVor der Haustür\; Consume
+ r-Messe – Spieler-Testing\, FR-Indie-Kontakte.\n\nGünstig rein: Tagest
+ icket ~€15–25\; Pro-Akkreditierung anfragen\n\nhttps://www.parisgames
+ week.com/en
+LOCATION:Paris\, FR
+URL:https://www.parisgamesweek.com/en
+END:VEVENT
+BEGIN:VEVENT
+UID:paris-games-week-2026-r7@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:⏰ Paris Games Week 2026 in 1 Woche
+TRANSP:TRANSPARENT
+DESCRIPTION:★★ gaming · Paris · ~€20\n\nVor der Haustür\; Consume
+ r-Messe – Spieler-Testing\, FR-Indie-Kontakte.\n\nGünstig rein: Tagest
+ icket ~€15–25\; Pro-Akkreditierung anfragen\n\nhttps://www.parisgames
+ week.com/en
+LOCATION:Paris\, FR
+URL:https://www.parisgamesweek.com/en
+END:VEVENT
+BEGIN:VEVENT
+UID:paris-games-week-2026-r1@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:⏰ Paris Games Week 2026 in 1 Tag
+TRANSP:TRANSPARENT
+DESCRIPTION:★★ gaming · Paris · ~€20\n\nVor der Haustür\; Consume
+ r-Messe – Spieler-Testing\, FR-Indie-Kontakte.\n\nGünstig rein: Tagest
+ icket ~€15–25\; Pro-Akkreditierung anfragen\n\nhttps://www.parisgames
+ week.com/en
+LOCATION:Paris\, FR
+URL:https://www.parisgamesweek.com/en
+END:VEVENT
+BEGIN:VEVENT
+UID:game-connection-europe-2026@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261030
+SUMMARY:★★ Game Connection Europe 2026 (?)
+TRANSP:TRANSPARENT
+DESCRIPTION:★★ gaming · Paris · Preis unbekannt\n\nB2B-Matchmaking m
+ it Publishern/Investoren in Paris. Datum geschätzt – prüfen.\n\nGüns
+ tig rein: Development-Awards-Teilnehmer bekommen Gratis-Pässe\; Voluntee
+ r\n\n⚠ Datum noch nicht offiziell bestätigt.\n\nhttps://www.game-conne
+ ction.com
+LOCATION:Paris\, FR
+URL:https://www.game-connection.com
+END:VEVENT
+BEGIN:VEVENT
+UID:game-connection-europe-2026-r7@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:⏰ Game Connection Europe 2026 in 1 Woche
+TRANSP:TRANSPARENT
+DESCRIPTION:★★ gaming · Paris · Preis unbekannt\n\nB2B-Matchmaking m
+ it Publishern/Investoren in Paris. Datum geschätzt – prüfen.\n\nGüns
+ tig rein: Development-Awards-Teilnehmer bekommen Gratis-Pässe\; Voluntee
+ r\n\n⚠ Datum noch nicht offiziell bestätigt.\n\nhttps://www.game-conne
+ ction.com
+LOCATION:Paris\, FR
+URL:https://www.game-connection.com
+END:VEVENT
+BEGIN:VEVENT
+UID:game-connection-europe-2026-r1@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:⏰ Game Connection Europe 2026 in 1 Tag
+TRANSP:TRANSPARENT
+DESCRIPTION:★★ gaming · Paris · Preis unbekannt\n\nB2B-Matchmaking m
+ it Publishern/Investoren in Paris. Datum geschätzt – prüfen.\n\nGüns
+ tig rein: Development-Awards-Teilnehmer bekommen Gratis-Pässe\; Voluntee
+ r\n\n⚠ Datum noch nicht offiziell bestätigt.\n\nhttps://www.game-conne
+ ction.com
+LOCATION:Paris\, FR
+URL:https://www.game-connection.com
+END:VEVENT
+BEGIN:VEVENT
+UID:web-summit-2026@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261113
+SUMMARY:★ Web Summit 2026
+TRANSP:TRANSPARENT
+DESCRIPTION:★ founder · Lissabon · Preis unbekannt\n\nHohe Investor-Di
+ chte\, aber wenig Gaming und weit weg.\n\nGünstig rein: ALPHA-Startup-Pr
+ ogramm / Volunteer gratis\n\nhttps://websummit.com/
+LOCATION:Lissabon\, PT
+URL:https://websummit.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:web-summit-2026-r21@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:⏰ Web Summit 2026 in 3 Wochen – Reise/Ticket klären
+TRANSP:TRANSPARENT
+DESCRIPTION:★ founder · Lissabon · Preis unbekannt\n\nHohe Investor-Di
+ chte\, aber wenig Gaming und weit weg.\n\nGünstig rein: ALPHA-Startup-Pr
+ ogramm / Volunteer gratis\n\nhttps://websummit.com/
+LOCATION:Lissabon\, PT
+URL:https://websummit.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:robotics-ai-hackathon-berlin-2026@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261116
+SUMMARY:★ Robotics x AI Hackathon – HackLab @ CIC Berlin
+TRANSP:TRANSPARENT
+DESCRIPTION:★ hackathon · Berlin · Preis unbekannt\n\nRobotik passt ka
+ um\, aber Berlin-Erkundung vor dem Umzug.\n\nGünstig rein: Ausverkauft\,
+  Warteliste\n\nhttps://www.createwith.com/event/berlin-robotics-x-ai-hack
+ athon-hacklab-nov-2026
+LOCATION:Berlin\, DE
+URL:https://www.createwith.com/event/berlin-robotics-x-ai-hackathon-hackla
+ b-nov-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:robotics-ai-hackathon-berlin-2026-r21@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:⏰ Robotics x AI Hackathon – HackLab @ CIC Berlin in 3 Wochen 
+ – Reise/Ticket klären
+TRANSP:TRANSPARENT
+DESCRIPTION:★ hackathon · Berlin · Preis unbekannt\n\nRobotik passt ka
+ um\, aber Berlin-Erkundung vor dem Umzug.\n\nGünstig rein: Ausverkauft\,
+  Warteliste\n\nhttps://www.createwith.com/event/berlin-robotics-x-ai-hack
+ athon-hacklab-nov-2026
+LOCATION:Berlin\, DE
+URL:https://www.createwith.com/event/berlin-robotics-x-ai-hackathon-hackla
+ b-nov-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:iterate-paris-hackathon-2026@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261117
+SUMMARY:★★★ Iterate Paris Hackathon (Anthropic\, Lovable\, ElevenLab
+ s) (?)
+TRANSP:TRANSPARENT
+DESCRIPTION:★★★ hackathon · Paris · kostenlos\n\n24h-AI-Build mit 
+ AI-Stack-Sponsoren (Anthropic/ElevenLabs) – passt perfekt zu AI-NPCs/Vo
+ ice in FLAIR. Jahr auf Luma verifizieren.\n\nGünstig rein: Kostenlos\, B
+ ewerbung via Luma\n\n⚠ Datum noch nicht offiziell bestätigt.\n\nhttps:
+ //luma.com/du5lsiiu
+LOCATION:Paris\, FR
+URL:https://luma.com/du5lsiiu
+END:VEVENT
+BEGIN:VEVENT
+UID:iterate-paris-hackathon-2026-r21@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:⏰ Iterate Paris Hackathon (Anthropic\, Lovable\, ElevenLabs) in 
+ 3 Wochen
+TRANSP:TRANSPARENT
+DESCRIPTION:★★★ hackathon · Paris · kostenlos\n\n24h-AI-Build mit 
+ AI-Stack-Sponsoren (Anthropic/ElevenLabs) – passt perfekt zu AI-NPCs/Vo
+ ice in FLAIR. Jahr auf Luma verifizieren.\n\nGünstig rein: Kostenlos\, B
+ ewerbung via Luma\n\n⚠ Datum noch nicht offiziell bestätigt.\n\nhttps:
+ //luma.com/du5lsiiu
+LOCATION:Paris\, FR
+URL:https://luma.com/du5lsiiu
+END:VEVENT
+BEGIN:VEVENT
+UID:iterate-paris-hackathon-2026-r7@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:⏰ Iterate Paris Hackathon (Anthropic\, Lovable\, ElevenLabs) in 
+ 1 Woche
+TRANSP:TRANSPARENT
+DESCRIPTION:★★★ hackathon · Paris · kostenlos\n\n24h-AI-Build mit 
+ AI-Stack-Sponsoren (Anthropic/ElevenLabs) – passt perfekt zu AI-NPCs/Vo
+ ice in FLAIR. Jahr auf Luma verifizieren.\n\nGünstig rein: Kostenlos\, B
+ ewerbung via Luma\n\n⚠ Datum noch nicht offiziell bestätigt.\n\nhttps:
+ //luma.com/du5lsiiu
+LOCATION:Paris\, FR
+URL:https://luma.com/du5lsiiu
+END:VEVENT
+BEGIN:VEVENT
+UID:iterate-paris-hackathon-2026-r1@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:⏰ Iterate Paris Hackathon (Anthropic\, Lovable\, ElevenLabs) in 
+ 1 Tag
+TRANSP:TRANSPARENT
+DESCRIPTION:★★★ hackathon · Paris · kostenlos\n\n24h-AI-Build mit 
+ AI-Stack-Sponsoren (Anthropic/ElevenLabs) – passt perfekt zu AI-NPCs/Vo
+ ice in FLAIR. Jahr auf Luma verifizieren.\n\nGünstig rein: Kostenlos\, B
+ ewerbung via Luma\n\n⚠ Datum noch nicht offiziell bestätigt.\n\nhttps:
+ //luma.com/du5lsiiu
+LOCATION:Paris\, FR
+URL:https://luma.com/du5lsiiu
+END:VEVENT
+BEGIN:VEVENT
+UID:slush-2026@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261120
+SUMMARY:★★ Slush 2026
+TRANSP:TRANSPARENT
+DESCRIPTION:★★ founder · Helsinki · Preis unbekannt\n\nTop-VC-Event 
+ Europas in der Gaming-Hauptstadt (Supercell\, Akusti-Kontakt) – Fundrai
+ sing-Gespräche.\n\nGünstig rein: Volunteer gratis oder Founder-Ticket p
+ er Bewerbung\n\nhttps://slush.org/
+LOCATION:Helsinki\, FI
+URL:https://slush.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:slush-2026-r42@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:⏰ Slush 2026 in 6 Wochen – Reise/Ticket klären
+TRANSP:TRANSPARENT
+DESCRIPTION:★★ founder · Helsinki · Preis unbekannt\n\nTop-VC-Event 
+ Europas in der Gaming-Hauptstadt (Supercell\, Akusti-Kontakt) – Fundrai
+ sing-Gespräche.\n\nGünstig rein: Volunteer gratis oder Founder-Ticket p
+ er Bewerbung\n\nhttps://slush.org/
+LOCATION:Helsinki\, FI
+URL:https://slush.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:slush-2026-r21@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:⏰ Slush 2026 in 3 Wochen – Reise/Ticket klären
+TRANSP:TRANSPARENT
+DESCRIPTION:★★ founder · Helsinki · Preis unbekannt\n\nTop-VC-Event 
+ Europas in der Gaming-Hauptstadt (Supercell\, Akusti-Kontakt) – Fundrai
+ sing-Gespräche.\n\nGünstig rein: Volunteer gratis oder Founder-Ticket p
+ er Bewerbung\n\nhttps://slush.org/
+LOCATION:Helsinki\, FI
+URL:https://slush.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:slush-2026-r7@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:⏰ Slush 2026 in 1 Woche
+TRANSP:TRANSPARENT
+DESCRIPTION:★★ founder · Helsinki · Preis unbekannt\n\nTop-VC-Event 
+ Europas in der Gaming-Hauptstadt (Supercell\, Akusti-Kontakt) – Fundrai
+ sing-Gespräche.\n\nGünstig rein: Volunteer gratis oder Founder-Ticket p
+ er Bewerbung\n\nhttps://slush.org/
+LOCATION:Helsinki\, FI
+URL:https://slush.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:dauphine-digital-days-2026@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261127
+SUMMARY:★ Dauphine Digital Days – IA et société
+TRANSP:TRANSPARENT
+DESCRIPTION:★ ai · Paris · kostenlos\n\nLokales AI-Event\, eher akadem
+ isch. Nur Networking-Filler.\n\nGünstig rein: Uni-Event\, vermutlich kos
+ tenlos\n\nhttps://dauphine.psl.eu/dauphine/media-et-communication/article
+ /le-hackathon-des-dauphine-digital-days
+LOCATION:Paris\, FR
+URL:https://dauphine.psl.eu/dauphine/media-et-communication/article/le-hac
+ kathon-des-dauphine-digital-days
+END:VEVENT
+BEGIN:VEVENT
+UID:dauphine-digital-days-2026-r3@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:⏰ Dauphine Digital Days – IA et société in 3 Tagen
+TRANSP:TRANSPARENT
+DESCRIPTION:★ ai · Paris · kostenlos\n\nLokales AI-Event\, eher akadem
+ isch. Nur Networking-Filler.\n\nGünstig rein: Uni-Event\, vermutlich kos
+ tenlos\n\nhttps://dauphine.psl.eu/dauphine/media-et-communication/article
+ /le-hackathon-des-dauphine-digital-days
+LOCATION:Paris\, FR
+URL:https://dauphine.psl.eu/dauphine/media-et-communication/article/le-hac
+ kathon-des-dauphine-digital-days
+END:VEVENT
+BEGIN:VEVENT
+UID:hackatum-2026@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261130
+SUMMARY:★★ hackaTUM 2026
+TRANSP:TRANSPARENT
+DESCRIPTION:★★ hackathon · München · kostenlos\n\nEiner der größt
+ en EU-Hackathons\, Münchner Startup-Ökosystem\; Netzwerk + mögliche Co
+ -Founder\, kombinierbar mit Freunde-Besuch.\n\nGünstig rein: Kostenlos i
+ nkl. Verpflegung\; bei Freunden schlafen\n\nhttps://hack.tum.de/
+LOCATION:München\, DE
+URL:https://hack.tum.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:hackatum-2026-r42@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:⏰ hackaTUM 2026 in 6 Wochen – Reise/Ticket klären
+TRANSP:TRANSPARENT
+DESCRIPTION:★★ hackathon · München · kostenlos\n\nEiner der größt
+ en EU-Hackathons\, Münchner Startup-Ökosystem\; Netzwerk + mögliche Co
+ -Founder\, kombinierbar mit Freunde-Besuch.\n\nGünstig rein: Kostenlos i
+ nkl. Verpflegung\; bei Freunden schlafen\n\nhttps://hack.tum.de/
+LOCATION:München\, DE
+URL:https://hack.tum.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:hackatum-2026-r21@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:⏰ hackaTUM 2026 in 3 Wochen – Reise/Ticket klären
+TRANSP:TRANSPARENT
+DESCRIPTION:★★ hackathon · München · kostenlos\n\nEiner der größt
+ en EU-Hackathons\, Münchner Startup-Ökosystem\; Netzwerk + mögliche Co
+ -Founder\, kombinierbar mit Freunde-Besuch.\n\nGünstig rein: Kostenlos i
+ nkl. Verpflegung\; bei Freunden schlafen\n\nhttps://hack.tum.de/
+LOCATION:München\, DE
+URL:https://hack.tum.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:hackatum-2026-r7@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:⏰ hackaTUM 2026 in 1 Woche
+TRANSP:TRANSPARENT
+DESCRIPTION:★★ hackathon · München · kostenlos\n\nEiner der größt
+ en EU-Hackathons\, Münchner Startup-Ökosystem\; Netzwerk + mögliche Co
+ -Founder\, kombinierbar mit Freunde-Besuch.\n\nGünstig rein: Kostenlos i
+ nkl. Verpflegung\; bei Freunden schlafen\n\nhttps://hack.tum.de/
+LOCATION:München\, DE
+URL:https://hack.tum.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:adopt-ai-hackathons-2026@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261205
+SUMMARY:★★ Adopt AI Hackathons @ Grand Palais
+TRANSP:TRANSPARENT
+DESCRIPTION:★★ hackathon · Paris · Preis unbekannt\n\nGroßes AI-Eve
+ nt in Paris neben Adopt AI Summit\; Fokus Public Sector/Enterprise\, aber
+  Sichtbarkeit.\n\nGünstig rein: Teilnahmebedingungen prüfen (eher Studi
+ erende/Institutionen)\n\nhttps://www.createwith.com/event/paris-adopt-ai-
+ hackathons-2026-dec-2026
+LOCATION:Paris\, FR
+URL:https://www.createwith.com/event/paris-adopt-ai-hackathons-2026-dec-20
+ 26
+END:VEVENT
+BEGIN:VEVENT
+UID:adopt-ai-hackathons-2026-r7@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:⏰ Adopt AI Hackathons @ Grand Palais in 1 Woche
+TRANSP:TRANSPARENT
+DESCRIPTION:★★ hackathon · Paris · Preis unbekannt\n\nGroßes AI-Eve
+ nt in Paris neben Adopt AI Summit\; Fokus Public Sector/Enterprise\, aber
+  Sichtbarkeit.\n\nGünstig rein: Teilnahmebedingungen prüfen (eher Studi
+ erende/Institutionen)\n\nhttps://www.createwith.com/event/paris-adopt-ai-
+ hackathons-2026-dec-2026
+LOCATION:Paris\, FR
+URL:https://www.createwith.com/event/paris-adopt-ai-hackathons-2026-dec-20
+ 26
+END:VEVENT
+BEGIN:VEVENT
+UID:adopt-ai-hackathons-2026-r1@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:⏰ Adopt AI Hackathons @ Grand Palais in 1 Tag
+TRANSP:TRANSPARENT
+DESCRIPTION:★★ hackathon · Paris · Preis unbekannt\n\nGroßes AI-Eve
+ nt in Paris neben Adopt AI Summit\; Fokus Public Sector/Enterprise\, aber
+  Sichtbarkeit.\n\nGünstig rein: Teilnahmebedingungen prüfen (eher Studi
+ erende/Institutionen)\n\nhttps://www.createwith.com/event/paris-adopt-ai-
+ hackathons-2026-dec-2026
+LOCATION:Paris\, FR
+URL:https://www.createwith.com/event/paris-adopt-ai-hackathons-2026-dec-20
+ 26
+END:VEVENT
+BEGIN:VEVENT
+UID:pg-connects-london-2027@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270120
+SUMMARY:★ Pocket Gamer Connects London 2027
+TRANSP:TRANSPARENT
+DESCRIPTION:★ gaming · London · Preis unbekannt\n\nBig Indie Pitch: ko
+ stenlose Bühne vor Publishern/Investoren.\n\nGünstig rein: Big Indie Pi
+ tch = Gratis-Pass für Pitcher\n\nhttps://www.pgconnects.com/london/
+LOCATION:London\, UK
+URL:https://www.pgconnects.com/london/
+END:VEVENT
+BEGIN:VEVENT
+UID:pg-connects-london-2027-r21@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+SUMMARY:⏰ Pocket Gamer Connects London 2027 in 3 Wochen – Reise/Ticket
+  klären
+TRANSP:TRANSPARENT
+DESCRIPTION:★ gaming · London · Preis unbekannt\n\nBig Indie Pitch: ko
+ stenlose Bühne vor Publishern/Investoren.\n\nGünstig rein: Big Indie Pi
+ tch = Gratis-Pass für Pitcher\n\nhttps://www.pgconnects.com/london/
+LOCATION:London\, UK
+URL:https://www.pgconnects.com/london/
+END:VEVENT
+BEGIN:VEVENT
+UID:global-game-jam-2027@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270126
+SUMMARY:★★★ Global Game Jam 2027
+TRANSP:TRANSPARENT
+DESCRIPTION:★★★ hackathon · Paris/Berlin (lokale Site) · kostenlos
+ \n\n48h-Jam: AI-Mechanik prototypen und Gamedevs in Berlin kennenlernen.\
+ n\nGünstig rein: Lokale Sites meist kostenlos\n\nDeadlines:\n• 2027-01
+ -09: Lokale Jam-Site wählen & registrieren\n\nhttps://globalgamejam.org/
+LOCATION:Paris/Berlin (lokale Site)\, DE
+URL:https://globalgamejam.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:global-game-jam-2027-r56@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:⏰ Global Game Jam 2027 in 8 Wochen – Reise/Ticket klären
+TRANSP:TRANSPARENT
+DESCRIPTION:★★★ hackathon · Paris/Berlin (lokale Site) · kostenlos
+ \n\n48h-Jam: AI-Mechanik prototypen und Gamedevs in Berlin kennenlernen.\
+ n\nGünstig rein: Lokale Sites meist kostenlos\n\nDeadlines:\n• 2027-01
+ -09: Lokale Jam-Site wählen & registrieren\n\nhttps://globalgamejam.org/
+LOCATION:Paris/Berlin (lokale Site)\, DE
+URL:https://globalgamejam.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:global-game-jam-2027-r42@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:⏰ Global Game Jam 2027 in 6 Wochen – Reise/Ticket klären
+TRANSP:TRANSPARENT
+DESCRIPTION:★★★ hackathon · Paris/Berlin (lokale Site) · kostenlos
+ \n\n48h-Jam: AI-Mechanik prototypen und Gamedevs in Berlin kennenlernen.\
+ n\nGünstig rein: Lokale Sites meist kostenlos\n\nDeadlines:\n• 2027-01
+ -09: Lokale Jam-Site wählen & registrieren\n\nhttps://globalgamejam.org/
+LOCATION:Paris/Berlin (lokale Site)\, DE
+URL:https://globalgamejam.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:global-game-jam-2027-r28@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:⏰ Global Game Jam 2027 in 4 Wochen – Reise/Ticket klären
+TRANSP:TRANSPARENT
+DESCRIPTION:★★★ hackathon · Paris/Berlin (lokale Site) · kostenlos
+ \n\n48h-Jam: AI-Mechanik prototypen und Gamedevs in Berlin kennenlernen.\
+ n\nGünstig rein: Lokale Sites meist kostenlos\n\nDeadlines:\n• 2027-01
+ -09: Lokale Jam-Site wählen & registrieren\n\nhttps://globalgamejam.org/
+LOCATION:Paris/Berlin (lokale Site)\, DE
+URL:https://globalgamejam.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:global-game-jam-2027-r14@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:⏰ Global Game Jam 2027 in 2 Wochen – Reise/Ticket klären
+TRANSP:TRANSPARENT
+DESCRIPTION:★★★ hackathon · Paris/Berlin (lokale Site) · kostenlos
+ \n\n48h-Jam: AI-Mechanik prototypen und Gamedevs in Berlin kennenlernen.\
+ n\nGünstig rein: Lokale Sites meist kostenlos\n\nDeadlines:\n• 2027-01
+ -09: Lokale Jam-Site wählen & registrieren\n\nhttps://globalgamejam.org/
+LOCATION:Paris/Berlin (lokale Site)\, DE
+URL:https://globalgamejam.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:global-game-jam-2027-r7@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:⏰ Global Game Jam 2027 in 1 Woche
+TRANSP:TRANSPARENT
+DESCRIPTION:★★★ hackathon · Paris/Berlin (lokale Site) · kostenlos
+ \n\n48h-Jam: AI-Mechanik prototypen und Gamedevs in Berlin kennenlernen.\
+ n\nGünstig rein: Lokale Sites meist kostenlos\n\nDeadlines:\n• 2027-01
+ -09: Lokale Jam-Site wählen & registrieren\n\nhttps://globalgamejam.org/
+LOCATION:Paris/Berlin (lokale Site)\, DE
+URL:https://globalgamejam.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:global-game-jam-2027-r1@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270123
+SUMMARY:⏰ Global Game Jam 2027 in 1 Tag
+TRANSP:TRANSPARENT
+DESCRIPTION:★★★ hackathon · Paris/Berlin (lokale Site) · kostenlos
+ \n\n48h-Jam: AI-Mechanik prototypen und Gamedevs in Berlin kennenlernen.\
+ n\nGünstig rein: Lokale Sites meist kostenlos\n\nDeadlines:\n• 2027-01
+ -09: Lokale Jam-Site wählen & registrieren\n\nhttps://globalgamejam.org/
+LOCATION:Paris/Berlin (lokale Site)\, DE
+URL:https://globalgamejam.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:global-game-jam-2027-dl-e7a40203@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:🎟 Lokale Jam-Site wählen & registrieren – Global Game Jam 20
+ 27
+TRANSP:TRANSPARENT
+DESCRIPTION:★★★ hackathon · Paris/Berlin (lokale Site) · kostenlos
+ \n\n48h-Jam: AI-Mechanik prototypen und Gamedevs in Berlin kennenlernen.\
+ n\nGünstig rein: Lokale Sites meist kostenlos\n\nDeadlines:\n• 2027-01
+ -09: Lokale Jam-Site wählen & registrieren\n\nhttps://globalgamejam.org/
+LOCATION:Paris/Berlin (lokale Site)\, DE
+URL:https://globalgamejam.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:global-game-jam-2027-dl-e7a40203-pre@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20270104
+DTEND;VALUE=DATE:20270105
+SUMMARY:⏰ in 5 Tagen: Lokale Jam-Site wählen & registrieren – Global 
+ Game Jam 2027
+TRANSP:TRANSPARENT
+DESCRIPTION:★★★ hackathon · Paris/Berlin (lokale Site) · kostenlos
+ \n\n48h-Jam: AI-Mechanik prototypen und Gamedevs in Berlin kennenlernen.\
+ n\nGünstig rein: Lokale Sites meist kostenlos\n\nDeadlines:\n• 2027-01
+ -09: Lokale Jam-Site wählen & registrieren\n\nhttps://globalgamejam.org/
+LOCATION:Paris/Berlin (lokale Site)\, DE
+URL:https://globalgamejam.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:quo-vadis-2027@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270218
+SUMMARY:★★★ Quo Vadis 2027 (Berlin) (?)
+TRANSP:TRANSPARENT
+DESCRIPTION:★★★ gaming · Berlin · Preis unbekannt\n\nWichtigste DE
+ -Dev-Konferenz in deiner künftigen Stadt – Szene + Förderer (Medienbo
+ ard) kennenlernen. Datum prüfen.\n\nGünstig rein: Indie-/Student-Ticket
+ s\, Volunteer\n\n⚠ Datum noch nicht offiziell bestätigt.\n\nhttps://ww
+ w.quovadis-conference.com/
+LOCATION:Berlin\, DE
+URL:https://www.quovadis-conference.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:quo-vadis-2027-r56@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+SUMMARY:⏰ Quo Vadis 2027 (Berlin) in 8 Wochen – Reise/Ticket klären
+TRANSP:TRANSPARENT
+DESCRIPTION:★★★ gaming · Berlin · Preis unbekannt\n\nWichtigste DE
+ -Dev-Konferenz in deiner künftigen Stadt – Szene + Förderer (Medienbo
+ ard) kennenlernen. Datum prüfen.\n\nGünstig rein: Indie-/Student-Ticket
+ s\, Volunteer\n\n⚠ Datum noch nicht offiziell bestätigt.\n\nhttps://ww
+ w.quovadis-conference.com/
+LOCATION:Berlin\, DE
+URL:https://www.quovadis-conference.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:quo-vadis-2027-r42@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20270104
+DTEND;VALUE=DATE:20270105
+SUMMARY:⏰ Quo Vadis 2027 (Berlin) in 6 Wochen – Reise/Ticket klären
+TRANSP:TRANSPARENT
+DESCRIPTION:★★★ gaming · Berlin · Preis unbekannt\n\nWichtigste DE
+ -Dev-Konferenz in deiner künftigen Stadt – Szene + Förderer (Medienbo
+ ard) kennenlernen. Datum prüfen.\n\nGünstig rein: Indie-/Student-Ticket
+ s\, Volunteer\n\n⚠ Datum noch nicht offiziell bestätigt.\n\nhttps://ww
+ w.quovadis-conference.com/
+LOCATION:Berlin\, DE
+URL:https://www.quovadis-conference.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:quo-vadis-2027-r28@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270119
+SUMMARY:⏰ Quo Vadis 2027 (Berlin) in 4 Wochen – Reise/Ticket klären
+TRANSP:TRANSPARENT
+DESCRIPTION:★★★ gaming · Berlin · Preis unbekannt\n\nWichtigste DE
+ -Dev-Konferenz in deiner künftigen Stadt – Szene + Förderer (Medienbo
+ ard) kennenlernen. Datum prüfen.\n\nGünstig rein: Indie-/Student-Ticket
+ s\, Volunteer\n\n⚠ Datum noch nicht offiziell bestätigt.\n\nhttps://ww
+ w.quovadis-conference.com/
+LOCATION:Berlin\, DE
+URL:https://www.quovadis-conference.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:quo-vadis-2027-r14@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270202
+SUMMARY:⏰ Quo Vadis 2027 (Berlin) in 2 Wochen – Reise/Ticket klären
+TRANSP:TRANSPARENT
+DESCRIPTION:★★★ gaming · Berlin · Preis unbekannt\n\nWichtigste DE
+ -Dev-Konferenz in deiner künftigen Stadt – Szene + Förderer (Medienbo
+ ard) kennenlernen. Datum prüfen.\n\nGünstig rein: Indie-/Student-Ticket
+ s\, Volunteer\n\n⚠ Datum noch nicht offiziell bestätigt.\n\nhttps://ww
+ w.quovadis-conference.com/
+LOCATION:Berlin\, DE
+URL:https://www.quovadis-conference.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:quo-vadis-2027-r7@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20270208
+DTEND;VALUE=DATE:20270209
+SUMMARY:⏰ Quo Vadis 2027 (Berlin) in 1 Woche
+TRANSP:TRANSPARENT
+DESCRIPTION:★★★ gaming · Berlin · Preis unbekannt\n\nWichtigste DE
+ -Dev-Konferenz in deiner künftigen Stadt – Szene + Förderer (Medienbo
+ ard) kennenlernen. Datum prüfen.\n\nGünstig rein: Indie-/Student-Ticket
+ s\, Volunteer\n\n⚠ Datum noch nicht offiziell bestätigt.\n\nhttps://ww
+ w.quovadis-conference.com/
+LOCATION:Berlin\, DE
+URL:https://www.quovadis-conference.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:quo-vadis-2027-r1@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:⏰ Quo Vadis 2027 (Berlin) in 1 Tag
+TRANSP:TRANSPARENT
+DESCRIPTION:★★★ gaming · Berlin · Preis unbekannt\n\nWichtigste DE
+ -Dev-Konferenz in deiner künftigen Stadt – Szene + Förderer (Medienbo
+ ard) kennenlernen. Datum prüfen.\n\nGünstig rein: Indie-/Student-Ticket
+ s\, Volunteer\n\n⚠ Datum noch nicht offiziell bestätigt.\n\nhttps://ww
+ w.quovadis-conference.com/
+LOCATION:Berlin\, DE
+URL:https://www.quovadis-conference.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:gdc-2027@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270306
+SUMMARY:★ GDC 2027
+TRANSP:TRANSPARENT
+DESCRIPTION:★ gaming · San Francisco · Preis unbekannt\n\nWichtigstes 
+ Branchenevent weltweit\, aber Reise teuer.\n\nGünstig rein: Nur als Conf
+ erence Associate (Volunteer) im Budget\; viele Gratis-Side-Events\n\nDead
+ lines:\n• 2026-11-30: GDC Volunteer-Bewerbung (geschätzt)\n\nhttps://g
+ dconf.com/
+LOCATION:San Francisco\, US
+URL:https://gdconf.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:gdc-2027-r21@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20270208
+DTEND;VALUE=DATE:20270209
+SUMMARY:⏰ GDC 2027 in 3 Wochen – Reise/Ticket klären
+TRANSP:TRANSPARENT
+DESCRIPTION:★ gaming · San Francisco · Preis unbekannt\n\nWichtigstes 
+ Branchenevent weltweit\, aber Reise teuer.\n\nGünstig rein: Nur als Conf
+ erence Associate (Volunteer) im Budget\; viele Gratis-Side-Events\n\nDead
+ lines:\n• 2026-11-30: GDC Volunteer-Bewerbung (geschätzt)\n\nhttps://g
+ dconf.com/
+LOCATION:San Francisco\, US
+URL:https://gdconf.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:gdc-2027-dl-ced7e61d@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:🎟 GDC Volunteer-Bewerbung (geschätzt) – GDC 2027
+TRANSP:TRANSPARENT
+DESCRIPTION:★ gaming · San Francisco · Preis unbekannt\n\nWichtigstes 
+ Branchenevent weltweit\, aber Reise teuer.\n\nGünstig rein: Nur als Conf
+ erence Associate (Volunteer) im Budget\; viele Gratis-Side-Events\n\nDead
+ lines:\n• 2026-11-30: GDC Volunteer-Bewerbung (geschätzt)\n\nhttps://g
+ dconf.com/
+LOCATION:San Francisco\, US
+URL:https://gdconf.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:gdc-2027-dl-ced7e61d-pre@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:⏰ in 5 Tagen: GDC Volunteer-Bewerbung (geschätzt) – GDC 2027
+TRANSP:TRANSPARENT
+DESCRIPTION:★ gaming · San Francisco · Preis unbekannt\n\nWichtigstes 
+ Branchenevent weltweit\, aber Reise teuer.\n\nGünstig rein: Nur als Conf
+ erence Associate (Volunteer) im Budget\; viele Gratis-Side-Events\n\nDead
+ lines:\n• 2026-11-30: GDC Volunteer-Bewerbung (geschätzt)\n\nhttps://g
+ dconf.com/
+LOCATION:San Francisco\, US
+URL:https://gdconf.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:gg-bavaria-2027@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20270305
+DTEND;VALUE=DATE:20270308
+SUMMARY:★ GG Bavaria 2027 (?)
+TRANSP:TRANSPARENT
+DESCRIPTION:★ gaming · München · ~€15\n\nGaming-Convention München
+  – Playtesting + Freunde-Besuch. Datum geschätzt.\n\nGünstig rein: Co
+ nsumer-Ticket günstig\; Games/Bavaria Indie-Stände\n\n⚠ Datum noch ni
+ cht offiziell bestätigt.\n\nhttps://medien-bayern.de/
+LOCATION:München\, DE
+URL:https://medien-bayern.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:gg-bavaria-2027-r21@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270213
+SUMMARY:⏰ GG Bavaria 2027 in 3 Wochen – Reise/Ticket klären
+TRANSP:TRANSPARENT
+DESCRIPTION:★ gaming · München · ~€15\n\nGaming-Convention München
+  – Playtesting + Freunde-Besuch. Datum geschätzt.\n\nGünstig rein: Co
+ nsumer-Ticket günstig\; Games/Bavaria Indie-Stände\n\n⚠ Datum noch ni
+ cht offiziell bestätigt.\n\nhttps://medien-bayern.de/
+LOCATION:München\, DE
+URL:https://medien-bayern.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:hub-berlin-transform-2027@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270319
+SUMMARY:★ TRANSFORM by Hub Berlin 2027
+TRANSP:TRANSPARENT
+DESCRIPTION:★ ai · Berlin · Preis unbekannt\n\nBitkom-Digitalkonferenz
+ \, eher Corporate.\n\nGünstig rein: Startup-Tickets rabattiert\n\nhttps:
+ //hub.berlin/
+LOCATION:Berlin\, DE
+URL:https://hub.berlin/
+END:VEVENT
+BEGIN:VEVENT
+UID:hub-berlin-transform-2027-r21@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20270224
+DTEND;VALUE=DATE:20270225
+SUMMARY:⏰ TRANSFORM by Hub Berlin 2027 in 3 Wochen – Reise/Ticket klä
+ ren
+TRANSP:TRANSPARENT
+DESCRIPTION:★ ai · Berlin · Preis unbekannt\n\nBitkom-Digitalkonferenz
+ \, eher Corporate.\n\nGünstig rein: Startup-Tickets rabattiert\n\nhttps:
+ //hub.berlin/
+LOCATION:Berlin\, DE
+URL:https://hub.berlin/
+END:VEVENT
+BEGIN:VEVENT
+UID:german-dev-days-2027@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20270325
+DTEND;VALUE=DATE:20270327
+SUMMARY:★★ German Dev Days 2027 (?)
+TRANSP:TRANSPARENT
+DESCRIPTION:★★ gaming · Frankfurt · Preis unbekannt\n\nDE-Indie-Szen
+ e in Frankfurt + Freunde. Datum geschätzt.\n\nGünstig rein: Indie-/Stud
+ ent-Tickets günstig\n\n⚠ Datum noch nicht offiziell bestätigt.\n\nhtt
+ ps://germandevdays.com/
+LOCATION:Frankfurt\, DE
+URL:https://germandevdays.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:german-dev-days-2027-r42@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20270211
+DTEND;VALUE=DATE:20270212
+SUMMARY:⏰ German Dev Days 2027 in 6 Wochen – Reise/Ticket klären
+TRANSP:TRANSPARENT
+DESCRIPTION:★★ gaming · Frankfurt · Preis unbekannt\n\nDE-Indie-Szen
+ e in Frankfurt + Freunde. Datum geschätzt.\n\nGünstig rein: Indie-/Stud
+ ent-Tickets günstig\n\n⚠ Datum noch nicht offiziell bestätigt.\n\nhtt
+ ps://germandevdays.com/
+LOCATION:Frankfurt\, DE
+URL:https://germandevdays.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:german-dev-days-2027-r21@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20270304
+DTEND;VALUE=DATE:20270305
+SUMMARY:⏰ German Dev Days 2027 in 3 Wochen – Reise/Ticket klären
+TRANSP:TRANSPARENT
+DESCRIPTION:★★ gaming · Frankfurt · Preis unbekannt\n\nDE-Indie-Szen
+ e in Frankfurt + Freunde. Datum geschätzt.\n\nGünstig rein: Indie-/Stud
+ ent-Tickets günstig\n\n⚠ Datum noch nicht offiziell bestätigt.\n\nhtt
+ ps://germandevdays.com/
+LOCATION:Frankfurt\, DE
+URL:https://germandevdays.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:german-dev-days-2027-r7@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20270318
+DTEND;VALUE=DATE:20270319
+SUMMARY:⏰ German Dev Days 2027 in 1 Woche
+TRANSP:TRANSPARENT
+DESCRIPTION:★★ gaming · Frankfurt · Preis unbekannt\n\nDE-Indie-Szen
+ e in Frankfurt + Freunde. Datum geschätzt.\n\nGünstig rein: Indie-/Stud
+ ent-Tickets günstig\n\n⚠ Datum noch nicht offiziell bestätigt.\n\nhtt
+ ps://germandevdays.com/
+LOCATION:Frankfurt\, DE
+URL:https://germandevdays.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:reboot-develop-blue-2027@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20270423
+DTEND;VALUE=DATE:20270426
+SUMMARY:★ Reboot Develop Blue 2027
+TRANSP:TRANSPARENT
+DESCRIPTION:★ gaming · Dubrovnik · Preis unbekannt\n\nIntimes Netzwerk
+  mit Studio-Chefs/Publishern\; Showcase-Bewerbung lohnt.\n\nGünstig rein
+ : Indie-Showcase gibt Gratis-Pässe\n\nhttps://www.rebootdevelop.hr/
+LOCATION:Dubrovnik\, HR
+URL:https://www.rebootdevelop.hr/
+END:VEVENT
+BEGIN:VEVENT
+UID:reboot-develop-blue-2027-r21@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20270402
+DTEND;VALUE=DATE:20270403
+SUMMARY:⏰ Reboot Develop Blue 2027 in 3 Wochen – Reise/Ticket klären
+TRANSP:TRANSPARENT
+DESCRIPTION:★ gaming · Dubrovnik · Preis unbekannt\n\nIntimes Netzwerk
+  mit Studio-Chefs/Publishern\; Showcase-Bewerbung lohnt.\n\nGünstig rein
+ : Indie-Showcase gibt Gratis-Pässe\n\nhttps://www.rebootdevelop.hr/
+LOCATION:Dubrovnik\, HR
+URL:https://www.rebootdevelop.hr/
+END:VEVENT
+BEGIN:VEVENT
+UID:omr-festival-2027@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20270503
+DTEND;VALUE=DATE:20270506
+SUMMARY:★ OMR Festival 2027
+TRANSP:TRANSPARENT
+DESCRIPTION:★ founder · Hamburg · Preis unbekannt\n\nMarketing/Creator
+ -Fokus – nützlich für Influencer-UA.\n\nGünstig rein: Meist >€200\
+ ; Volunteer/Student begrenzt\n\nhttps://omr.com/en/events/festival/
+LOCATION:Hamburg\, DE
+URL:https://omr.com/en/events/festival/
+END:VEVENT
+BEGIN:VEVENT
+UID:omr-festival-2027-r21@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20270412
+DTEND;VALUE=DATE:20270413
+SUMMARY:⏰ OMR Festival 2027 in 3 Wochen – Reise/Ticket klären
+TRANSP:TRANSPARENT
+DESCRIPTION:★ founder · Hamburg · Preis unbekannt\n\nMarketing/Creator
+ -Fokus – nützlich für Influencer-UA.\n\nGünstig rein: Meist >€200\
+ ; Volunteer/Student begrenzt\n\nhttps://omr.com/en/events/festival/
+LOCATION:Hamburg\, DE
+URL:https://omr.com/en/events/festival/
+END:VEVENT
+BEGIN:VEVENT
+UID:a-maze-berlin-2027@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20270505
+DTEND;VALUE=DATE:20270509
+SUMMARY:★★★ A MAZE. / Berlin 2027
+TRANSP:TRANSPARENT
+DESCRIPTION:★★★ gaming · Berlin · ~€60\n\nExperimentelles Indie-
+ Festival in Berlin\, günstig – FLAIR als neuartiges AI-Spiel zeigen\, 
+ Berliner Community.\n\nGünstig rein: 200 Early-Bird-Tickets\; eingereich
+ te Spiele = Pässe\n\nhttps://amaze-berlin.de/
+LOCATION:Berlin\, DE
+URL:https://amaze-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:a-maze-berlin-2027-r56@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270311
+SUMMARY:⏰ A MAZE. / Berlin 2027 in 8 Wochen – Reise/Ticket klären
+TRANSP:TRANSPARENT
+DESCRIPTION:★★★ gaming · Berlin · ~€60\n\nExperimentelles Indie-
+ Festival in Berlin\, günstig – FLAIR als neuartiges AI-Spiel zeigen\, 
+ Berliner Community.\n\nGünstig rein: 200 Early-Bird-Tickets\; eingereich
+ te Spiele = Pässe\n\nhttps://amaze-berlin.de/
+LOCATION:Berlin\, DE
+URL:https://amaze-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:a-maze-berlin-2027-r42@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20270324
+DTEND;VALUE=DATE:20270325
+SUMMARY:⏰ A MAZE. / Berlin 2027 in 6 Wochen – Reise/Ticket klären
+TRANSP:TRANSPARENT
+DESCRIPTION:★★★ gaming · Berlin · ~€60\n\nExperimentelles Indie-
+ Festival in Berlin\, günstig – FLAIR als neuartiges AI-Spiel zeigen\, 
+ Berliner Community.\n\nGünstig rein: 200 Early-Bird-Tickets\; eingereich
+ te Spiele = Pässe\n\nhttps://amaze-berlin.de/
+LOCATION:Berlin\, DE
+URL:https://amaze-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:a-maze-berlin-2027-r28@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270408
+SUMMARY:⏰ A MAZE. / Berlin 2027 in 4 Wochen – Reise/Ticket klären
+TRANSP:TRANSPARENT
+DESCRIPTION:★★★ gaming · Berlin · ~€60\n\nExperimentelles Indie-
+ Festival in Berlin\, günstig – FLAIR als neuartiges AI-Spiel zeigen\, 
+ Berliner Community.\n\nGünstig rein: 200 Early-Bird-Tickets\; eingereich
+ te Spiele = Pässe\n\nhttps://amaze-berlin.de/
+LOCATION:Berlin\, DE
+URL:https://amaze-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:a-maze-berlin-2027-r14@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20270421
+DTEND;VALUE=DATE:20270422
+SUMMARY:⏰ A MAZE. / Berlin 2027 in 2 Wochen – Reise/Ticket klären
+TRANSP:TRANSPARENT
+DESCRIPTION:★★★ gaming · Berlin · ~€60\n\nExperimentelles Indie-
+ Festival in Berlin\, günstig – FLAIR als neuartiges AI-Spiel zeigen\, 
+ Berliner Community.\n\nGünstig rein: 200 Early-Bird-Tickets\; eingereich
+ te Spiele = Pässe\n\nhttps://amaze-berlin.de/
+LOCATION:Berlin\, DE
+URL:https://amaze-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:a-maze-berlin-2027-r7@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20270428
+DTEND;VALUE=DATE:20270429
+SUMMARY:⏰ A MAZE. / Berlin 2027 in 1 Woche
+TRANSP:TRANSPARENT
+DESCRIPTION:★★★ gaming · Berlin · ~€60\n\nExperimentelles Indie-
+ Festival in Berlin\, günstig – FLAIR als neuartiges AI-Spiel zeigen\, 
+ Berliner Community.\n\nGünstig rein: 200 Early-Bird-Tickets\; eingereich
+ te Spiele = Pässe\n\nhttps://amaze-berlin.de/
+LOCATION:Berlin\, DE
+URL:https://amaze-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:a-maze-berlin-2027-r1@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20270504
+DTEND;VALUE=DATE:20270505
+SUMMARY:⏰ A MAZE. / Berlin 2027 in 1 Tag
+TRANSP:TRANSPARENT
+DESCRIPTION:★★★ gaming · Berlin · ~€60\n\nExperimentelles Indie-
+ Festival in Berlin\, günstig – FLAIR als neuartiges AI-Spiel zeigen\, 
+ Berliner Community.\n\nGünstig rein: 200 Early-Bird-Tickets\; eingereich
+ te Spiele = Pässe\n\nhttps://amaze-berlin.de/
+LOCATION:Berlin\, DE
+URL:https://amaze-berlin.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:rise-of-ai-2027@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20270511
+DTEND;VALUE=DATE:20270512
+SUMMARY:★ Rise of AI 2027 (?)
+TRANSP:TRANSPARENT
+DESCRIPTION:★ ai · Berlin · Preis unbekannt\n\nBerliner AI-Konferenz. 
+ Datum geschätzt.\n\nGünstig rein: Startup-Tickets/Volunteer\n\n⚠ Datu
+ m noch nicht offiziell bestätigt.\n\nhttps://riseof.ai/
+LOCATION:Berlin\, DE
+URL:https://riseof.ai/
+END:VEVENT
+BEGIN:VEVENT
+UID:rise-of-ai-2027-r21@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20270420
+DTEND;VALUE=DATE:20270421
+SUMMARY:⏰ Rise of AI 2027 in 3 Wochen – Reise/Ticket klären
+TRANSP:TRANSPARENT
+DESCRIPTION:★ ai · Berlin · Preis unbekannt\n\nBerliner AI-Konferenz. 
+ Datum geschätzt.\n\nGünstig rein: Startup-Tickets/Volunteer\n\n⚠ Datu
+ m noch nicht offiziell bestätigt.\n\nhttps://riseof.ai/
+LOCATION:Berlin\, DE
+URL:https://riseof.ai/
+END:VEVENT
+BEGIN:VEVENT
+UID:nordic-game-2027@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20270520
+DTEND;VALUE=DATE:20270524
+SUMMARY:★ Nordic Game 2027
+TRANSP:TRANSPARENT
+DESCRIPTION:★ gaming · Malmö · Preis unbekannt\n\nNordische Publisher
+ /Investoren\; Discovery Contest als Pitch-Bühne.\n\nGünstig rein: Indie
+ /Student/Volunteer\; Discovery Contest\n\nhttps://nordicgame.com/
+LOCATION:Malmö\, SE
+URL:https://nordicgame.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:nordic-game-2027-r21@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20270429
+DTEND;VALUE=DATE:20270430
+SUMMARY:⏰ Nordic Game 2027 in 3 Wochen – Reise/Ticket klären
+TRANSP:TRANSPARENT
+DESCRIPTION:★ gaming · Malmö · Preis unbekannt\n\nNordische Publisher
+ /Investoren\; Discovery Contest als Pitch-Bühne.\n\nGünstig rein: Indie
+ /Student/Volunteer\; Discovery Contest\n\nhttps://nordicgame.com/
+LOCATION:Malmö\, SE
+URL:https://nordicgame.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:tech-open-air-2027@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20270602
+DTEND;VALUE=DATE:20270605
+SUMMARY:★★ Tech Open Air Berlin 2027 (?)
+TRANSP:TRANSPARENT
+DESCRIPTION:★★ founder · Berlin · Preis unbekannt\n\nBerliner Founde
+ r/VC-Szene. Datum geschätzt.\n\nGünstig rein: Volunteer\, Startup-Ticke
+ ts\n\n⚠ Datum noch nicht offiziell bestätigt.\n\nhttps://toa.berlin/
+LOCATION:Berlin\, DE
+URL:https://toa.berlin/
+END:VEVENT
+BEGIN:VEVENT
+UID:tech-open-air-2027-r42@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20270421
+DTEND;VALUE=DATE:20270422
+SUMMARY:⏰ Tech Open Air Berlin 2027 in 6 Wochen – Reise/Ticket klären
+TRANSP:TRANSPARENT
+DESCRIPTION:★★ founder · Berlin · Preis unbekannt\n\nBerliner Founde
+ r/VC-Szene. Datum geschätzt.\n\nGünstig rein: Volunteer\, Startup-Ticke
+ ts\n\n⚠ Datum noch nicht offiziell bestätigt.\n\nhttps://toa.berlin/
+LOCATION:Berlin\, DE
+URL:https://toa.berlin/
+END:VEVENT
+BEGIN:VEVENT
+UID:tech-open-air-2027-r21@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20270512
+DTEND;VALUE=DATE:20270513
+SUMMARY:⏰ Tech Open Air Berlin 2027 in 3 Wochen – Reise/Ticket klären
+TRANSP:TRANSPARENT
+DESCRIPTION:★★ founder · Berlin · Preis unbekannt\n\nBerliner Founde
+ r/VC-Szene. Datum geschätzt.\n\nGünstig rein: Volunteer\, Startup-Ticke
+ ts\n\n⚠ Datum noch nicht offiziell bestätigt.\n\nhttps://toa.berlin/
+LOCATION:Berlin\, DE
+URL:https://toa.berlin/
+END:VEVENT
+BEGIN:VEVENT
+UID:tech-open-air-2027-r7@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20270526
+DTEND;VALUE=DATE:20270527
+SUMMARY:⏰ Tech Open Air Berlin 2027 in 1 Woche
+TRANSP:TRANSPARENT
+DESCRIPTION:★★ founder · Berlin · Preis unbekannt\n\nBerliner Founde
+ r/VC-Szene. Datum geschätzt.\n\nGünstig rein: Volunteer\, Startup-Ticke
+ ts\n\n⚠ Datum noch nicht offiziell bestätigt.\n\nhttps://toa.berlin/
+LOCATION:Berlin\, DE
+URL:https://toa.berlin/
+END:VEVENT
+BEGIN:VEVENT
+UID:vivatech-2027@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20270616
+DTEND;VALUE=DATE:20270620
+SUMMARY:★★ VivaTech 2027
+TRANSP:TRANSPARENT
+DESCRIPTION:★★ founder · Paris · Preis unbekannt\n\nGrößtes EU-Tec
+ h-Event\; Paris-Netzwerk nutzbar.\n\nGünstig rein: Letzter Tag öffentli
+ ch/günstig\; Volunteer\; Startup-Stand über Partner\n\nhttps://vivatech
+ nology.com/
+LOCATION:Paris\, FR
+URL:https://vivatechnology.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:vivatech-2027-r7@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20270609
+DTEND;VALUE=DATE:20270610
+SUMMARY:⏰ VivaTech 2027 in 1 Woche
+TRANSP:TRANSPARENT
+DESCRIPTION:★★ founder · Paris · Preis unbekannt\n\nGrößtes EU-Tec
+ h-Event\; Paris-Netzwerk nutzbar.\n\nGünstig rein: Letzter Tag öffentli
+ ch/günstig\; Volunteer\; Startup-Stand über Partner\n\nhttps://vivatech
+ nology.com/
+LOCATION:Paris\, FR
+URL:https://vivatechnology.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:vivatech-2027-r1@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20270615
+DTEND;VALUE=DATE:20270616
+SUMMARY:⏰ VivaTech 2027 in 1 Tag
+TRANSP:TRANSPARENT
+DESCRIPTION:★★ founder · Paris · Preis unbekannt\n\nGrößtes EU-Tec
+ h-Event\; Paris-Netzwerk nutzbar.\n\nGünstig rein: Letzter Tag öffentli
+ ch/günstig\; Volunteer\; Startup-Stand über Partner\n\nhttps://vivatech
+ nology.com/
+LOCATION:Paris\, FR
+URL:https://vivatechnology.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:raise-summit-2027@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20270706
+DTEND;VALUE=DATE:20270709
+SUMMARY:★ RAISE Summit 2027
+TRANSP:TRANSPARENT
+DESCRIPTION:★ ai · Paris · Preis unbekannt\n\nGroßer AI-Summit in Par
+ is\; nur mit Gratis-Pass sinnvoll.\n\nGünstig rein: Volunteer/Startup-Pa
+ ss\; Bewerbungen vermutlich Q1\n\nhttps://www.raisesummit.com/
+LOCATION:Paris\, FR
+URL:https://www.raisesummit.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:raise-summit-2027-r3@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20270703
+DTEND;VALUE=DATE:20270704
+SUMMARY:⏰ RAISE Summit 2027 in 3 Tagen
+TRANSP:TRANSPARENT
+DESCRIPTION:★ ai · Paris · Preis unbekannt\n\nGroßer AI-Summit in Par
+ is\; nur mit Gratis-Pass sinnvoll.\n\nGünstig rein: Volunteer/Startup-Pa
+ ss\; Bewerbungen vermutlich Q1\n\nhttps://www.raisesummit.com/
+LOCATION:Paris\, FR
+URL:https://www.raisesummit.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:gamescom-2027@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20270825
+DTEND;VALUE=DATE:20270830
+SUMMARY:★★★ gamescom + devcom 2027 (?)
+TRANSP:TRANSPARENT
+DESCRIPTION:★★★ gaming · Köln · Preis unbekannt\n\nGrößte Games
+ -Messe der Welt: Publisher\, Investoren\, Indie Arena Booth für FLAIR. D
+ atum geschätzt – Hotel extrem früh buchen.\n\nGünstig rein: Indie-Ar
+ ena-Booth-Bewerbung\; devcom Indie-/Student-Ticket\; Fachbesuchertag\n\n
+ ⚠ Datum noch nicht offiziell bestätigt.\n\nhttps://www.gamescom.global
+ /
+LOCATION:Köln\, DE
+URL:https://www.gamescom.global/
+END:VEVENT
+BEGIN:VEVENT
+UID:gamescom-2027-r56@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+SUMMARY:⏰ gamescom + devcom 2027 in 8 Wochen – Reise/Ticket klären
+TRANSP:TRANSPARENT
+DESCRIPTION:★★★ gaming · Köln · Preis unbekannt\n\nGrößte Games
+ -Messe der Welt: Publisher\, Investoren\, Indie Arena Booth für FLAIR. D
+ atum geschätzt – Hotel extrem früh buchen.\n\nGünstig rein: Indie-Ar
+ ena-Booth-Bewerbung\; devcom Indie-/Student-Ticket\; Fachbesuchertag\n\n
+ ⚠ Datum noch nicht offiziell bestätigt.\n\nhttps://www.gamescom.global
+ /
+LOCATION:Köln\, DE
+URL:https://www.gamescom.global/
+END:VEVENT
+BEGIN:VEVENT
+UID:gamescom-2027-r42@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20270714
+DTEND;VALUE=DATE:20270715
+SUMMARY:⏰ gamescom + devcom 2027 in 6 Wochen – Reise/Ticket klären
+TRANSP:TRANSPARENT
+DESCRIPTION:★★★ gaming · Köln · Preis unbekannt\n\nGrößte Games
+ -Messe der Welt: Publisher\, Investoren\, Indie Arena Booth für FLAIR. D
+ atum geschätzt – Hotel extrem früh buchen.\n\nGünstig rein: Indie-Ar
+ ena-Booth-Bewerbung\; devcom Indie-/Student-Ticket\; Fachbesuchertag\n\n
+ ⚠ Datum noch nicht offiziell bestätigt.\n\nhttps://www.gamescom.global
+ /
+LOCATION:Köln\, DE
+URL:https://www.gamescom.global/
+END:VEVENT
+BEGIN:VEVENT
+UID:gamescom-2027-r28@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20270728
+DTEND;VALUE=DATE:20270729
+SUMMARY:⏰ gamescom + devcom 2027 in 4 Wochen – Reise/Ticket klären
+TRANSP:TRANSPARENT
+DESCRIPTION:★★★ gaming · Köln · Preis unbekannt\n\nGrößte Games
+ -Messe der Welt: Publisher\, Investoren\, Indie Arena Booth für FLAIR. D
+ atum geschätzt – Hotel extrem früh buchen.\n\nGünstig rein: Indie-Ar
+ ena-Booth-Bewerbung\; devcom Indie-/Student-Ticket\; Fachbesuchertag\n\n
+ ⚠ Datum noch nicht offiziell bestätigt.\n\nhttps://www.gamescom.global
+ /
+LOCATION:Köln\, DE
+URL:https://www.gamescom.global/
+END:VEVENT
+BEGIN:VEVENT
+UID:gamescom-2027-r14@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20270811
+DTEND;VALUE=DATE:20270812
+SUMMARY:⏰ gamescom + devcom 2027 in 2 Wochen – Reise/Ticket klären
+TRANSP:TRANSPARENT
+DESCRIPTION:★★★ gaming · Köln · Preis unbekannt\n\nGrößte Games
+ -Messe der Welt: Publisher\, Investoren\, Indie Arena Booth für FLAIR. D
+ atum geschätzt – Hotel extrem früh buchen.\n\nGünstig rein: Indie-Ar
+ ena-Booth-Bewerbung\; devcom Indie-/Student-Ticket\; Fachbesuchertag\n\n
+ ⚠ Datum noch nicht offiziell bestätigt.\n\nhttps://www.gamescom.global
+ /
+LOCATION:Köln\, DE
+URL:https://www.gamescom.global/
+END:VEVENT
+BEGIN:VEVENT
+UID:gamescom-2027-r7@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20270818
+DTEND;VALUE=DATE:20270819
+SUMMARY:⏰ gamescom + devcom 2027 in 1 Woche
+TRANSP:TRANSPARENT
+DESCRIPTION:★★★ gaming · Köln · Preis unbekannt\n\nGrößte Games
+ -Messe der Welt: Publisher\, Investoren\, Indie Arena Booth für FLAIR. D
+ atum geschätzt – Hotel extrem früh buchen.\n\nGünstig rein: Indie-Ar
+ ena-Booth-Bewerbung\; devcom Indie-/Student-Ticket\; Fachbesuchertag\n\n
+ ⚠ Datum noch nicht offiziell bestätigt.\n\nhttps://www.gamescom.global
+ /
+LOCATION:Köln\, DE
+URL:https://www.gamescom.global/
+END:VEVENT
+BEGIN:VEVENT
+UID:gamescom-2027-r1@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20270824
+DTEND;VALUE=DATE:20270825
+SUMMARY:⏰ gamescom + devcom 2027 in 1 Tag
+TRANSP:TRANSPARENT
+DESCRIPTION:★★★ gaming · Köln · Preis unbekannt\n\nGrößte Games
+ -Messe der Welt: Publisher\, Investoren\, Indie Arena Booth für FLAIR. D
+ atum geschätzt – Hotel extrem früh buchen.\n\nGünstig rein: Indie-Ar
+ ena-Booth-Bewerbung\; devcom Indie-/Student-Ticket\; Fachbesuchertag\n\n
+ ⚠ Datum noch nicht offiziell bestätigt.\n\nhttps://www.gamescom.global
+ /
+LOCATION:Köln\, DE
+URL:https://www.gamescom.global/
+END:VEVENT
+BEGIN:VEVENT
+UID:bits-and-pretzels-2027@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20270926
+DTEND;VALUE=DATE:20270929
+SUMMARY:★★★ Bits & Pretzels 2027 (?)
+TRANSP:TRANSPARENT
+DESCRIPTION:★★★ founder · München · Preis unbekannt\n\nWichtigste
+ s Founder-Event DE\, München + Freunde. Datum geschätzt.\n\nGünstig re
+ in: Volunteer / Student / Startup-Ticket früh\n\n⚠ Datum noch nicht of
+ fiziell bestätigt.\n\nhttps://www.bitsandpretzels.com/
+LOCATION:München\, DE
+URL:https://www.bitsandpretzels.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:bits-and-pretzels-2027-r56@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20270801
+DTEND;VALUE=DATE:20270802
+SUMMARY:⏰ Bits & Pretzels 2027 in 8 Wochen – Reise/Ticket klären
+TRANSP:TRANSPARENT
+DESCRIPTION:★★★ founder · München · Preis unbekannt\n\nWichtigste
+ s Founder-Event DE\, München + Freunde. Datum geschätzt.\n\nGünstig re
+ in: Volunteer / Student / Startup-Ticket früh\n\n⚠ Datum noch nicht of
+ fiziell bestätigt.\n\nhttps://www.bitsandpretzels.com/
+LOCATION:München\, DE
+URL:https://www.bitsandpretzels.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:bits-and-pretzels-2027-r42@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20270815
+DTEND;VALUE=DATE:20270816
+SUMMARY:⏰ Bits & Pretzels 2027 in 6 Wochen – Reise/Ticket klären
+TRANSP:TRANSPARENT
+DESCRIPTION:★★★ founder · München · Preis unbekannt\n\nWichtigste
+ s Founder-Event DE\, München + Freunde. Datum geschätzt.\n\nGünstig re
+ in: Volunteer / Student / Startup-Ticket früh\n\n⚠ Datum noch nicht of
+ fiziell bestätigt.\n\nhttps://www.bitsandpretzels.com/
+LOCATION:München\, DE
+URL:https://www.bitsandpretzels.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:bits-and-pretzels-2027-r28@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20270829
+DTEND;VALUE=DATE:20270830
+SUMMARY:⏰ Bits & Pretzels 2027 in 4 Wochen – Reise/Ticket klären
+TRANSP:TRANSPARENT
+DESCRIPTION:★★★ founder · München · Preis unbekannt\n\nWichtigste
+ s Founder-Event DE\, München + Freunde. Datum geschätzt.\n\nGünstig re
+ in: Volunteer / Student / Startup-Ticket früh\n\n⚠ Datum noch nicht of
+ fiziell bestätigt.\n\nhttps://www.bitsandpretzels.com/
+LOCATION:München\, DE
+URL:https://www.bitsandpretzels.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:bits-and-pretzels-2027-r14@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20270912
+DTEND;VALUE=DATE:20270913
+SUMMARY:⏰ Bits & Pretzels 2027 in 2 Wochen – Reise/Ticket klären
+TRANSP:TRANSPARENT
+DESCRIPTION:★★★ founder · München · Preis unbekannt\n\nWichtigste
+ s Founder-Event DE\, München + Freunde. Datum geschätzt.\n\nGünstig re
+ in: Volunteer / Student / Startup-Ticket früh\n\n⚠ Datum noch nicht of
+ fiziell bestätigt.\n\nhttps://www.bitsandpretzels.com/
+LOCATION:München\, DE
+URL:https://www.bitsandpretzels.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:bits-and-pretzels-2027-r7@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20270919
+DTEND;VALUE=DATE:20270920
+SUMMARY:⏰ Bits & Pretzels 2027 in 1 Woche
+TRANSP:TRANSPARENT
+DESCRIPTION:★★★ founder · München · Preis unbekannt\n\nWichtigste
+ s Founder-Event DE\, München + Freunde. Datum geschätzt.\n\nGünstig re
+ in: Volunteer / Student / Startup-Ticket früh\n\n⚠ Datum noch nicht of
+ fiziell bestätigt.\n\nhttps://www.bitsandpretzels.com/
+LOCATION:München\, DE
+URL:https://www.bitsandpretzels.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:bits-and-pretzels-2027-r1@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20270925
+DTEND;VALUE=DATE:20270926
+SUMMARY:⏰ Bits & Pretzels 2027 in 1 Tag
+TRANSP:TRANSPARENT
+DESCRIPTION:★★★ founder · München · Preis unbekannt\n\nWichtigste
+ s Founder-Event DE\, München + Freunde. Datum geschätzt.\n\nGünstig re
+ in: Volunteer / Student / Startup-Ticket früh\n\n⚠ Datum noch nicht of
+ fiziell bestätigt.\n\nhttps://www.bitsandpretzels.com/
+LOCATION:München\, DE
+URL:https://www.bitsandpretzels.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:digest-2026-10-06@event-radar
+DTSTAMP:20261006T112622Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:📬 Event-Radar: Start: 32 Events\, 5 Deadlines
+TRANSP:TRANSPARENT
+DESCRIPTION:Event Radar läuft. Alle 2 Wochen kommt hier ein Digest.\n\nN
+ ächste ★★★:\n• Iterate Paris AI-Hackathon 15.–16.11. (gratis)\
+ n• Global Game Jam 23.–25.1. – Site bis 9.1. wählen\n• Quo Vadis
+  Berlin Feb 2027\n• A MAZE Berlin Mai 2027 (Early-Bird €60)\n• game
+ scom Aug 2027\, Bits & Pretzels Sep 2027 (Daten geschätzt)\n\nDiesen Mon
+ at: Paris Games Week 22.–25.10.\, Game Connection Europe ~27.10.
+END:VEVENT
+END:VCALENDAR
